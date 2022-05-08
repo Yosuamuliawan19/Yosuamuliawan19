@@ -3,5 +3,5 @@
 
 ### Leetcode profile
 
-[![Yosua's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yosuamuliawan19)](https://github.com/KnlnKS/leetcode-stats)
+[![Yosua's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yosuamuliawan19)](https://leetcode.com/yosuamuliawan19/)
 
