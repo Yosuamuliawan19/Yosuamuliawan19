@@ -15,6 +15,6 @@ I’m passionate about machine learning, distributed computing, and systems prog
 
 - **Sentencepiece-go** - SentencePiece subword tokenization implementation in Go. Trains a tokenizer model from a corpus with a given vocabulary limit and supports encoding and decoding based on the SentencePiece specification. ([link](https://github.com/Yosuamuliawan19/sentencepiece-go))
 
-- **LSTM composer** - LSTM-based machine learning model for next-token music generation. Trained on classical compositions, incorporating data augmentation techniques like transposition and tempo variation for improved generalization. ([link](http://bit.ly/lstm-music-gen)))
+- **LSTM composer** - LSTM-based machine learning model for next-token music generation. Trained on classical compositions, incorporating data augmentation techniques like transposition and tempo variation for improved generalization. ([link](http://bit.ly/lstm-music-gen))
 
 - **RedditAtlas - Analyzing Subreddit Communities**  - Interactive Reddit analytics dashboard using NLP and big data processing. Analyzes a 269GB Reddit dataset with PySpark, Hadoop, and Google Cloud DataProc to identify trending topics and sentiment. Applies clustering algorithms to uncover subreddit relationships and engagement patterns. ([link](https://bit.ly/reddit-bigdata))
