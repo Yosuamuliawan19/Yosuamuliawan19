@@ -13,7 +13,7 @@ I’m passionate about machine learning, distributed computing, and systems prog
 
 - **Tensormesh-go**  - Proof-of-concept distributed TPU communication simulator in Go. Implements parallel matrix multiplication and all-reduce operations, simulating OpenXLA ML compiler operations. ([link](https://github.com/Yosuamuliawan19/tensormesh-go))
 
-- **Sentencepiece-go** - SentencePiece subword tokenization implementation in Go. Trains a tokenizer model from a corpus with a given vocabulary limit and supports encoding and decoding based on the SentencePiece specification. ([link](https://github.com/Yosuamuliawan19/sentencepiece-go))
+- **Sentencepiece-go** - SentencePiece subword tokenization implementation in Go. Trains a tokenizer model from a corpus with a given vocabulary limit ([link](https://github.com/Yosuamuliawan19/sentencepiece-go))
 
 - **LSTM composer** - LSTM-based machine learning model for next-token music generation. Trained on classical compositions, incorporating data augmentation techniques like transposition and tempo variation for improved generalization. ([link](http://bit.ly/lstm-music-gen))
 
